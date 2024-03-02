@@ -30,7 +30,7 @@ func (p *Primes) Run() {
 		p.calculatePrimes()
 	}()
 
-	for i := 0; i < 1; i++ {
+	for i := 0; i < 10; i++ {
 		p.wg.Add(1)
 		go func() {
 			defer p.wg.Done()
