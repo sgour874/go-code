@@ -1,0 +1,9 @@
+09:14:52.398860 Error: sql: no rows in result set
+09:14:52.398945 Error: Can't get student detail 8: sql: no rows in result set
+09:20:41.971540 Error: sql: no rows in result set
+09:20:41.971585 Error: Can't get student detail 3: sql: no rows in result set
+11:25:46.535767 Error: sql: no rows in result set
+11:25:46.535888 Error: Can't get student detail 8: sql: no rows in result set
+13:51:56.707125 Error: sql: no rows in result set
+13:51:56.707204 Error: Can't get student detail 3: sql: no rows in result set
+13:56:55.652665 Error: Error 1062 (23000): Duplicate entry '8' for key 'PRIMARY'
